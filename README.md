@@ -14,7 +14,7 @@ The application was built using Python and [Streamlit](https://streamlit.io/) fo
 - Enforce a 25 million unit withdrawal limit for savings accounts
 - Simple and clean web-based user interface
 
-# **Group Members** 
+# **Group Members & Contributions** 
 - Joseph Ezeanaya :    **wrote the code for the home.py**
 - David Nana :    **also wrote the code for the home.py**
 - Glory Ganiyu :    **Wrote the code for the savings account**
