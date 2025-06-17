@@ -4,7 +4,7 @@ from current_account import CurrentAccount
 
 # accounts
 savings = SavingsAccount(20000)
-current = CurrentAccount(1000)
+current = CurrentAccount(1000) 
 
 st.set_page_config(page_title="Bank App", layout="centered")
 st.title("Bank Account Operations")
