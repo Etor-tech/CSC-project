@@ -15,7 +15,7 @@ The application was built using Python and [Streamlit](https://streamlit.io/) fo
 - Simple and clean web-based user interface
 
 # **Group Members** 
-- Joseph Ezeanaya :    **wrote the code for the home.py**
+- Joseph Ezeanah :    **wrote the code for the home.py**
 - David Nana :    **also wrote the code for the home.py**
 - Glory Ganiyu :    **Wrote the code for the savings account**
 - Jessica Eniade :    **Wrote the code for the account**
