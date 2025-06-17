@@ -33,7 +33,7 @@ elif account_type == "Current Account":
     with st.form("current_form"):
         amount = st.number_input("Enter Amount to Save/Withdraw", min_value=1000)
         operation = st.selectbox("Deposit or Withdraw", ("Deposit", "Withdraw"))
-        submit = st.form_submit_button("Submit")
+        submit = st.form_submit_button("Submit") 
 
         if submit:
             if operation == "Withdraw":
